@@ -3,4 +3,3 @@
 
 ## Gated Softmax Attention
 ## Gated DeltaNet
-![img](./img/qwen3_next_gated_deltanet_block.jpg)
